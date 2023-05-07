@@ -1,0 +1,15 @@
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\bin\Debug\net6.0\Week3remainder.exe
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\bin\Debug\net6.0\Week3remainder.deps.json
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\bin\Debug\net6.0\Week3remainder.runtimeconfig.json
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\bin\Debug\net6.0\Week3remainder.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\bin\Debug\net6.0\Week3remainder.pdb
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\Week3remainder.csproj.AssemblyReference.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\Week3remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\Week3remainder.AssemblyInfoInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\Week3remainder.AssemblyInfo.cs
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\Week3remainder.csproj.CoreCompileInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\Week3remainder.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\refint\Week3remainder.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\Week3remainder.pdb
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\Week3remainder.genruntimeconfig.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week3\Week3remainder\obj\Debug\net6.0\ref\Week3remainder.dll
